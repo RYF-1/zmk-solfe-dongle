@@ -69,7 +69,7 @@
 &kp TILDE        &kp F6           &kp F7           &kp F8           &kp F9           &kp F10            &mmv MOVE_DOWN   &kp NUMBER_7  &kp NUMBER_8   &kp NUMBER_9     &kp PLUS   &kp CARET         &kp AMPERSAND
 &kp EXCLAMATION  &kp F11          &kp F12          &kp F13          &kp F14          &kp F15            &mmv MOVE_LEFT   &kp NUMBER_4  &kp NUMBER_5   &kp NUMBER_6     &kp PLUS   &kp LEFT_BRACKET  &kp RIGHT_BRACKET
 &kp AT           &rgb_ug RGB_OFF  &rgb_ug RGB_ON   &rgb_ug RGB_EFF  &rgb_ug RGB_EFR  &rgb_ug RGB_SPI    &mmv MOVE_RIGHT  &kp NUMBER_1  &kp NUMBER_2   &kp NUMBER_3     &kp ENTER  &kp F12           &trans
-&kp C_MUTE       &rgb_ug RGB_BRI  &rgb_ug RGB_BRD  &mo 2            &trans           &trans             &mkp LCLK        &trans        &kp NUMBER_0   &kp NUMBER_0     &kp DOT    &kp ENTER
+&kp C_MUTE       &rgb_ug RGB_BRI  &rgb_ug RGB_BRD  &mo 2            &kp ENTER        &trans             &mkp LCLK        &trans        &kp NUMBER_0   &kp NUMBER_0     &kp DOT    &kp ENTER
             >;
 
             display-name = "layer1";
